@@ -25,6 +25,18 @@ python-basic/
 ├─ day18_练习：我要买票吗？    # if分支实战练习题
 ├─ day19_多条件判断.py         # elif多分支条件判断
 └─ day20~day22 数字逻辑练习    # 综合逻辑判断、数字习题
+├─ day23_continue和break.py     # 循环关键字continue、break控制跳转
+├─ day24_从1累加加到100.py      # while循环数字累加基础案例
+├─ day25_奇数数字.py            # 循环筛选奇数数字练习
+├─ day26_while嵌套.py           # while双层嵌套循环基础
+├─ day27_99乘法表.py            # while嵌套实现九九乘法表
+├─ day28_for循环.py             # for循环基础语法与使用
+├─ day29_统计有多少个.py        # for循环计数统计案例
+├─ day30_range语句.py           # range()函数生成数字序列
+├─ day31_for循环嵌套使用.py     # for双层嵌套循环
+├─ day32_for循环打印99乘法表.py # for循环实现九九乘法表
+├─ day33_continue和break.py     # for循环中跳转关键字综合练习
+├─ day34_发工资.py              # 循环综合实战：企业批量发工资案例
 ## 运行环境
 1. Python版本：Python 3.10 及以上
 2. 代码编辑器：VS Code

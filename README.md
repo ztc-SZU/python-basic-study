@@ -37,6 +37,13 @@ python-basic/
 ├─ day32_for循环打印99乘法表.py # for循环实现九九乘法表
 ├─ day33_continue和break.py     # for循环中跳转关键字综合练习
 ├─ day34_发工资.py              # 循环综合实战：企业批量发工资案例
+├─ day35_函数基础.py        # 函数基础定义、参数入门
+├─ day36_函数传入参数.py    # 位置参数、关键字参数实操
+├─ day37_函数返回值.py      # return返回数据、多返回值用法
+├─ day38_说明文档.py        # 函数docstring文档注释规范
+├─ day39_函数嵌套调用.py    # 函数多层嵌套调用案例
+├─ day40_global关键字.py    # global全局变量修改关键字
+├─ day41_综合案例.py        # 函数综合实战综合练习题
 ## 运行环境
 1. Python版本：Python 3.10 及以上
 2. 代码编辑器：VS Code
